@@ -1,0 +1,2 @@
+/Users/Miri/Documents/MTA_computerScience/finalProject.nosync/compilerPlugin/ClangPluginsProject_SubmissionPackage/TracesPlugin/TestFiles/cpp/tracesTest.cpp T
+/Users/Miri/Documents/MTA_computerScience/finalProject.nosync/compilerPlugin/ClangPluginsProject_SubmissionPackage/TracesPlugin/TestFiles/cpp/main.cpp
